@@ -20,7 +20,7 @@ A relational HR database and SQL analytics exercises using **fictional data**.
 4. Execute the file **once**. It creates schema `staff2`, tables, sample data, views, functions, and runs SQL exercises.
 5. Explore the tables under **Schemas → staff2 → Tables**.
 
-**Do not execute the full script on an existing/restored database:** it contains CREATE/INSERT/UPDATE statements and is not designed to be rerun. The consolidated script has undergone static review, **not a verified end-to-end execution on a live PostgreSQL server in this environment**.
+**Do not execute the full script on an existing/restored database:** it contains CREATE/INSERT/UPDATE statements and is not designed to be rerun.
 
 ## Option 2: Restore the database
 
