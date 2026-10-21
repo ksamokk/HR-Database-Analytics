@@ -3,7 +3,7 @@
 **Portfolio project: Ksenia Samokhina**  
 [Русская инструкция](README_RU.md)
 
-A relational HR database and SQL analytics exercises using **fictional data**. The consolidated SQL is based on the author's original `SQL_EXEM.sql`, compared with a classmate's differently formatted solution to the same coursework, and edited for consistent schema usage and statement boundaries. It covers relational modeling, constraints, CRUD, joins, aggregates, CTEs, views, PL/pgSQL functions, business trips, employee skills and window functions.
+A relational HR database and SQL analytics exercises using **fictional data**.
 
 ## Files
 
