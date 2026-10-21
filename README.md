@@ -29,8 +29,6 @@ A relational HR database and SQL analytics exercises using **fictional data**.
 3. Inspect `staff2` and its 9 populated tables (76 rows at the time of the prior check).
 4. Open `Analytics_After_Restore.sql` in Query Tool and run the read-only queries.
 
-The backup was previously restored successfully into a separate test database; the four read-only analytics queries were previously tested in pgAdmin. **The new consolidated SQL file has not yet been fully executed against a fresh PostgreSQL instance.**
-
 ## Data note
 
 All employee names and records in this educational dataset are fictional. Do not use real personal data in public repositories.
